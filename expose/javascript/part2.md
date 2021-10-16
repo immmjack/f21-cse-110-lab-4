@@ -52,7 +52,8 @@ F. true === Boolean(2) True (true is evaluated to be 1 and Boolean(2) is evaluat
 
 ```javascript
 let result = modifyArray([1, 2, 3], doSomething);
-console.log(result.length);
+console.log(result.le+
+ngth);
 for (let i = 0; i < result.length; i++) {
     console.log(result[i]);
 }
